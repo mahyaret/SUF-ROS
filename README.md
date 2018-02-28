@@ -1,5 +1,7 @@
-Phidgets drivers for ROS
-========================
+Sensorized Underactuated Finger Phidgets Sensor Driver for ROS
+==============================================================
+
+<img src="/img/setup.jpg" width="60%">
 
 Overview
 ---------------------------------------------
